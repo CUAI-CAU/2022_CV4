@@ -1,4 +1,6 @@
-# Participating Kaggle Competition
+# CUAI Summer Conference CV team 3
+
+## Participating Kaggle Competition
 [HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation/overview)
 
 ## Meeting
