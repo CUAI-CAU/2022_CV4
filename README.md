@@ -1,10 +1,11 @@
-# 2022_CV4
+# Participating Kaggle Competition ([HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation/overview))
 
-주제: Kaggle 대회 참가 ([HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation/overview))
+## Meeting
+|Date|Content|
+|6/30|Choose a topic|
 
-|이름|학번|학과|
-|---|---|---|
-|김동영|20215767|소프트웨어|
-|정승혁|내용 6|내용 7|
-|차수현|내용 10|내용 11|
-|함정훈|내용 10|내용 11|
+## Member
+김동영, 소프트웨어대학 소프트웨어학부
+정승혁
+차수현
+함정훈
