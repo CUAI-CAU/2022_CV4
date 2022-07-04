@@ -1,4 +1,4 @@
-# Participating Kaggle Competition ([HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation/overview))
+# Participating Kaggle Competition\n([HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/competitions/hubmap-organ-segmentation/overview))
 
 ## Meeting
 |Date|Content|
